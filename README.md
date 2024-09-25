@@ -1,4 +1,4 @@
-# Laptop Price Predictor 💻💰
+# Laptop Price Predictor 💻💸
 
 ![Laptop Price](https://img.shields.io/badge/Price-Prediction-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
